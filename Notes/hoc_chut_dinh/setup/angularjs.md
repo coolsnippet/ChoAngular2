@@ -24,3 +24,9 @@ yo aspnet
 ## add angular js to aspnet project
 from here https://www.pluralsight.com/blog/software-development/angularjs-for-asp-net-applications
 use
+
+## add angulart to bower.json and then run bower install
+
+## 8 powerful extensions
+from here: http://www.hongkiat.com/blog/visual-studio-code-extensions/
+
